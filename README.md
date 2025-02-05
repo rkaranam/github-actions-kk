@@ -1,1 +1,1 @@
-# github-actions-kk
+# Github Actions - KodeKloud Course
